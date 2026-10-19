@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PlatformIO / VS Code (regenerated automatically)
+firmware/.pio/
+firmware/.vscode/c_cpp_properties.json
+firmware/.vscode/launch.json
+firmware/.vscode/ipch/
+
+# Large recordings
+data/*.wav
+
+# OS / editor junk
+.DS_Store
+*.swp

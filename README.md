@@ -42,6 +42,8 @@ to the phase, and the top 10 bits index a 1024-entry sine table written to the 8
 φ = unwrap(atan2(Q, I)). A straight-line fit removes the clock offset between the ESP32 and the PC.
 A least-squares sine fit gives the measured β, and a Hann-windowed FFT gives the spectrum.
 
+**Building the hardware?** See [HARDWARE.md](HARDWARE.md) for the parts list, wiring, and how to find the right wires in a 3.5 mm cable.
+
 ## Running it
 
 Setup (once), Python 3 with Tk:

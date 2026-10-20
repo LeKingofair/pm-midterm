@@ -1,6 +1,6 @@
 # Live Phase Modulation Link: ESP32 Transmitter with a Laptop I/Q Demodulator
 
-CET 3625 Applied Analysis Laboratory, Fall 2026, midterm project. William Morales.
+CET 3625 Applied Analysis Laboratory, Fall 2026, midterm project. 
 
 An ESP32 generates a phase-modulated signal
 
